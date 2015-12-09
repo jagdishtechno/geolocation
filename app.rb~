@@ -1,0 +1,7 @@
+require "sinatra"
+
+get "/" do
+	"Welcome to first sinatra application"
+end
+
+
